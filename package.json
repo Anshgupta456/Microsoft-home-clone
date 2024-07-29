@@ -1,0 +1,14 @@
+{
+  "name": "project1-fb-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.3.5"
+  }
+}
